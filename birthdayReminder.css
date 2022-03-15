@@ -143,8 +143,7 @@ main {
     padding: 0.5rem 0;
     letter-spacing: 0.1rem;
     border-radius: 0.25rem;
-    /* outline: 1px solid rgba(242, 138, 178, 0.8); */
-    cursor: pointer;
+    cursor: button;
 }
 
 .container button:hover {
